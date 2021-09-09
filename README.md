@@ -17,7 +17,7 @@
 <h2></h2>
 </a>
 <div>
-  <a href="mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
+  <a href="mailto:geisonbasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
   
   <a href="https://www.linkedin.com/in/geison-santos-496672172/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
 
